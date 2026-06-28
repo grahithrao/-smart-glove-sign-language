@@ -214,5 +214,5 @@ Before running the full code, test individual sensors:
 
 ---
 
-*Project by — B.E. Computer Science, Batch 68*
-*Smart Glove for Sign Language Translation Using IoT*
+*Project by — B.E. Computer Science, grahith rao*
+*Smart Glove for Sign Language Translation 
